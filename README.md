@@ -10,11 +10,9 @@
 <div id="badges" align="left">
   <a href="https://www.facebook.com/profile.php?id=100030206527942">
     <img src="https://img.shields.io/badge/FaceBook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="FaceBook Badge"/>
+  </a>
   <a href="https://www.youtube.com/channel/UCkL-qp-HShh4lLkcrm-Ur6g">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 <h3>   MY GMAIL:</h3>
