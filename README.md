@@ -40,8 +40,7 @@
 
 <section>
   <h2>🔥 My Stats</h2>
-  <a href="https://git.io/streak-stats">
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TranAnhQuoc23521313&theme=dark&hide_border=false" alt="GitHub Streak" />
 </section>
 
 <hr/>
@@ -54,5 +53,3 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   </div>
 </section>
-
-https://github-readme-streak-stats.herokuapp.com/?user=TranAnhQuoc23521313
