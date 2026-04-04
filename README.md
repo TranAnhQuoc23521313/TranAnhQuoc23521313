@@ -12,9 +12,9 @@
     <a href="https://www.facebook.com/profile.php?id=100030206527942">
       <img src="https://img.shields.io/badge/FaceBook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
-    <a href="https://www.youtube.com/channel/UCkL-qp-HShh4lLkcrm-Ur6g">
+<!--    <a href="https://www.youtube.com/channel/UCkL-qp-HShh4lLkcrm-Ur6g"> 
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-    </a>
+    </a>  -->
   </div>
 
   <h3>MY GMAIL</h3>
